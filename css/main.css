@@ -1,0 +1,73 @@
+
+
+.container, .container-lg, .container-md, .container-sm{
+	margin-top: 6em !important;
+	
+}
+
+
+
+.from-group{
+
+	margin-top:5px !important;
+}
+
+label{
+
+	cursor: pointer;
+}
+
+.bottom{
+
+	width: 100% !important; 
+	bottom:0;
+	position: absolute;
+}
+
+.bg-dark, .btn-dark, .table-dark{
+
+
+	background-color: black !important;
+}
+
+
+.navbar-dark .navbar-nav .nav-link{
+
+	color:white;
+	font-weight: bold;
+}
+
+
+
+.rounded-5{
+	
+	border-radius: 30px !important;
+}
+
+.rounded-right-5{
+	
+	border-top-right-radius: 30px !important;
+	border-bottom-right-radius: 30px !important;
+}
+
+
+
+
+  ::-webkit-scrollbar {
+	width: 3px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+	background: #fffbfb;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	background: #888;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: #555;
+  }
